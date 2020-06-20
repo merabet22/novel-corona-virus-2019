@@ -1,5 +1,6 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import datetime as dtgeoviews
+pandas 1.0.3
+numpy 1.16.2
+matplotlib 3.1.3
+seaborn 0.8.1
+geoviews 1.7.0
+bokeh 1.4.0
