@@ -1,10 +1,9 @@
 # novel-corona-virus-2019
-In this project, I worked on the analysis of the data about the affected cases by Corona virus. The datasets are provided by Johns Hopkins Github repository and they are updated daily.
 
 ## Project Intro/Objective
 In this project, I worked on the analysis of the data about the affected cases by Corona virus. The datasets are provided by Johns Hopkins Github repository and they are updated daily. 
 The Data Science skills showen are: 
-* Wrangling, transforming and cleaning timeseries. 
+* Wrangling, transforming and cleaning timeseries, data Visualization. 
 
 ### Methods Used
 * Data Wrangling 
