@@ -1,4 +1,4 @@
-![](Screenshot1.png)
+![](img1.png)
 
 # novel-corona-virus-2019
 
